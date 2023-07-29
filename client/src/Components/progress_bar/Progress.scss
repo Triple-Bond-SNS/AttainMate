@@ -1,0 +1,13 @@
+.box{
+    width: 80%;
+    margin: 0 auto;
+    height: 50px;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    .p-bar{
+        background-color: rgb(172, 172, 172);
+        display: hidden;
+    }
+}
+

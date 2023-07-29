@@ -1,0 +1,46 @@
+/* Navbar.scss */
+.navbar {
+    background-color: white !important;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    border: 1px solid rgb(180, 180, 180);
+}
+
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.navbar-toggler {
+    border: none;
+}
+
+
+.nav-link {
+    color: #333 !important;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.nav-link:hover {
+    color: #666 !important;
+}
+
+.avatar {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+.navbar-nav.ml-auto {
+    align-self: flex-end;
+}
