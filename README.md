@@ -8,4 +8,4 @@
 <img width="1440" alt="Screenshot 2023-07-29 at 10 27 59 PM" src="https://github.com/Triple-Bond-SNS/AttainMate/assets/104154041/fe46553c-fb56-4411-a919-2b63b9cae2af">
 
 ## Attainment
-<img width="1440" alt="Screenshot 2023-07-29 at 10 33 15 PM" src="https://github.com/Triple-Bond-SNS/AttainMate/assets/104154041/6c5bf9fb-2a7e-4681-8cdf-3a285541b67a">
+<img width="1440" alt="Screenshot 2023-07-29 at 10 34 06 PM" src="https://github.com/Triple-Bond-SNS/AttainMate/assets/104154041/9a06bf69-a4d7-42ec-afee-92e9754ed8bd">
